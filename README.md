@@ -61,4 +61,52 @@ A wireframe for a login page might include input fields for username and passwor
 
 Together, these elements help designers and developers align on structure, usability, and user flow—before any code or visuals are added.
 
+## 🧮 Types of Wireframes
+
+Wireframes come in different levels of detail depending on the stage of the design process. The two most common types are:
+
+### 🔹 Low-Fidelity Wireframes
+
+These are basic, sketch-like representations of a layout. They focus on structure and user flow without visual polish.
+
+**Characteristics:**
+- Black-and-white or grayscale
+- Simple shapes and placeholders
+- No styling, branding, or real content
+
+**Used When:**
+- Early in the design process
+- Brainstorming layout ideas
+- Aligning teams on functionality
+
+### 🔹 High-Fidelity Wireframes
+
+These are detailed and polished mockups that closely resemble the final product. They include real content, styling, and sometimes interactivity.
+
+**Characteristics:**
+- Use of colors, fonts, and branding
+- Real images and text
+- Precise spacing and alignment
+- May include clickable elements
+
+**Used When:**
+- Later in the design process
+- Preparing for user testing or stakeholder review
+- Handoff to developers
+
+---
+
+## 🔍 Wireframe Example: ALX Savanna Platform
+
+The wireframe used in the [ALX Savanna platform](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw) appears to be a **high-fidelity wireframe**. It includes:
+
+- Branded elements like logos and color styling
+- Interactive components such as login fields and buttons
+- Structured layout with real content (e.g., “Log in with the eHub,” “Forgot your password?”)
+
+This type of wireframe is typically used in the **final stages of design**, where the interface is nearly complete and ready for development or user testing. It helps stakeholders visualize the end product and ensures that developers have a clear blueprint to follow.
+
+
+
+
 
