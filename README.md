@@ -106,6 +106,30 @@ The wireframe used in the [ALX Savanna platform](https://savanna.alxafrica.com/r
 
 This type of wireframe is typically used in the **final stages of design**, where the interface is nearly complete and ready for development or user testing. It helps stakeholders visualize the end product and ensures that developers have a clear blueprint to follow.
 
+## 🛠️ Popular Wireframing Tools
+
+Wireframing can be done with anything from pen and paper to advanced design software. Here are some widely used tools that support different levels of fidelity and collaboration:
+
+- **Figma** – A cloud-based design tool ideal for wireframing, prototyping, and UI design. It supports real-time collaboration, reusable components, and easy sharing. Figma is beginner-friendly yet powerful enough for professional teams.
+- **Balsamiq** – Focuses on low-fidelity wireframes with a sketch-like interface. Great for quick layout ideas and early-stage planning.
+- **Adobe XD** – Offers wireframing, UI design, and prototyping in one platform. Integrates well with other Adobe tools.
+- **Sketch** – Popular among Mac users for high-fidelity design and wireframing. Known for its plugin ecosystem.
+- **Whimsical** – A lightweight tool for wireframes, flowcharts, and mind maps. Simple and fast for brainstorming.
+
+### 🌟 Recommended: Figma
+
+Figma is especially useful for wireframing because:
+
+- ✅ **Real-time collaboration** – Multiple users can edit and comment simultaneously.
+- ✅ **Cross-platform access** – Works in the browser, no installation required.
+- ✅ **Component-based design** – Reuse elements like buttons and cards across screens.
+- ✅ **Version control** – Track changes and revert easily.
+- ✅ **Community resources** – Tons of free templates and UI kits to speed up your workflow.
+
+Whether you're sketching out a homepage or mapping a full user journey, Figma makes wireframing intuitive, scalable, and shareable.
+
+
+
 
 
 
