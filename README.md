@@ -128,6 +128,38 @@ Figma is especially useful for wireframing because:
 
 Whether you're sketching out a homepage or mapping a full user journey, Figma makes wireframing intuitive, scalable, and shareable.
 
+## 🧪 Real-World Scenario: Wireframing Prevents Usability Issues
+
+During the early planning phase of a logistics dashboard project, the design team created a low-fidelity wireframe to map out how users would track shipments, view delivery statuses, and access incident reports.
+
+### 🚩 Usability Issue Identified
+The wireframe revealed that the navigation menu was overloaded with too many options. Users had to scroll or guess where to find key features like “Safety Alerts” or “Route History.” This cluttered layout risked confusing users and slowing down task completion.
+
+### 🔧 How It Was Resolved
+Before any code was written, the team:
+- Grouped related features under collapsible categories (e.g., “Operations,” “Safety,” “Reports”)
+- Added a search bar for quick access
+- Reordered menu items based on user priorities gathered from interviews
+
+These changes were tested in a revised wireframe and validated through quick user feedback sessions.
+
+### 🎯 Impact on Final Product
+- Users could navigate the dashboard faster and more intuitively
+- Reduced training time for new staff
+- Fewer support tickets related to “missing features” or navigation confusion
+
+---
+
+## 🧠 Conclusion: The Role of Wireframing in User-Friendly Design
+
+Wireframing acts as a blueprint for usability. It allows teams to:
+- Spot layout and interaction problems early
+- Test ideas without investing in full development
+- Align stakeholders on structure and flow
+- Iterate quickly based on feedback
+
+By visualizing the user experience before building, wireframing ensures that the final product is not just functional—but intuitive, efficient, and user-centered.
+
 
 
 
